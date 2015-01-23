@@ -7,7 +7,7 @@ How the code works:
 
 Unzips the data in the working directory
 
-Reads in test and train values then merge them
+Reads in test and train values then merges them
 
 Labels the data columns with values from the 'features' file after cleaning them by converting to lowercase and removing punctuation
 
