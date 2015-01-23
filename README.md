@@ -28,3 +28,5 @@ Initializes a data frame to hold the tidy data
 Loops through each subject, each activity, and each column in order to id the subject, activity, and then take the average for each subset
 
 Writes the tidy data to a .txt file
+
+Reads the .txt file and presents it in more viewable format
