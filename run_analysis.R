@@ -81,7 +81,8 @@ run_analysis<-function(){
       }
   }
   write.table(tidy2, "project_output.txt", row.name=FALSE)
-  return(head(tidy2))
+  data <- read.table("project_output.txt", header = TRUE)
+  View(data)
 }  
 
 
