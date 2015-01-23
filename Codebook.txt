@@ -1,3 +1,5 @@
+Columns in the tidy data file:
+
  [1] "Subject"                          
  [2] "Activity"                         
  [3] "tbodyaccmeanx"                    
