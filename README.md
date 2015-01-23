@@ -1,6 +1,8 @@
 Getting-and-Cleaning-Data-Project
 =================================
 
+Requires package stringr
+
 How the code works:
 
 Unzips the data in the working directory
